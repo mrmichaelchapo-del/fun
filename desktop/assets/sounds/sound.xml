@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sounds>
+    <sound name="Meow"   file="meow.mp3"    category="animal"  volume="1.0" />
+    <sound name="Pop"    file="pop.mp3"     category="effect"  volume="1.0" />
+    <sound name="Beep"   file="beep.mp3"    category="effect"  volume="0.8" />
+    <sound name="Chime"  file="chime.mp3"   category="musical" volume="0.9" />
+    <sound name="Drum"   file="drum.mp3"    category="musical" volume="1.0" />
+    <sound name="Whoosh" file="whoosh.mp3"  category="effect"  volume="0.9" />
+    <sound name="Coin"   file="coin.mp3"    category="game"    volume="1.0" />
+    <sound name="Laser"  file="laser.mp3"   category="game"    volume="0.85" />
+    <sound name="Boing"  file="boing.wav"   category="effect"  volume="1.0" />
+    <sound name="Win"    file="win.mp3"     category="game"    volume="1.0" />
+    <sound name="Beep"   file="beep.wav" category="robots"  volume="1.0" />
+</sounds>
